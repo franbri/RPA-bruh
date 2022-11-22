@@ -2,6 +2,16 @@
   "Packages": [
     {
       "Package": {
+        "Id": "BitMiracle.Docotic.Pdf",
+        "Version": "8.7.13797"
+      },
+      "Assemblies": [
+        "C:\\Users\\enju\\.nuget\\packages\\bitmiracle.docotic.pdf\\8.7.13797\\lib/netstandard2.0/BitMiracle.Docotic.Pdf.dll"
+      ],
+      "Path": "C:\\Users\\enju\\.nuget\\packages\\bitmiracle.docotic.pdf\\8.7.13797"
+    },
+    {
+      "Package": {
         "Id": "UiPath.Excel.Activities",
         "Version": "2.16.0"
       },
@@ -230,17 +240,119 @@
     },
     {
       "Package": {
-        "Id": "BitMiracle.Docotic.Pdf",
-        "Version": "8.7.13797"
+        "Id": "UiPath.PDF.Activities",
+        "Version": "3.10.1"
       },
       "Assemblies": [
-        "C:\\Users\\enju\\.nuget\\packages\\bitmiracle.docotic.pdf\\8.7.13797\\lib/netstandard2.0/BitMiracle.Docotic.Pdf.dll"
+        "C:\\Users\\enju\\.nuget\\packages\\bitmiracle.docotic.pdf\\8.7.13797\\lib/netstandard2.0/BitMiracle.Docotic.Pdf.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\lib/netstandard2.0/BitMiracle.LibTiff.NET.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/netstandard2.0/Newtonsoft.Json.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\ntextcat\\0.3.65\\lib/netstandard2.0/NTextCat.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\uipath.documentprocessing.contracts\\1.17.1\\lib/net6.0/UiPath.DocumentProcessing.Contracts.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\uipath.documentunderstanding.digitizer\\2.5.2\\lib/net6.0/UiPath.DocumentUnderstanding.Digitizer.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\uipath.ocr.contracts\\2.13.0\\lib/net6.0-windows7.0/UiPath.OCR.Contracts.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\uipath.pdf.activities\\3.10.1\\lib/net6.0-windows7.0/UiPath.PDF.Activities.Design.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\uipath.pdf.activities\\3.10.1\\lib/net6.0-windows7.0/UiPath.PDF.Activities.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\uipath.pdf.activities\\3.10.1\\lib/net6.0-windows7.0/UiPath.PDF.Telemetry.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\uipath.pdf.activities\\3.10.1\\lib/net6.0-windows7.0/UiPath.PDF.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/netstandard2.0/TelemetryClient.dll"
       ],
-      "Path": "C:\\Users\\enju\\.nuget\\packages\\bitmiracle.docotic.pdf\\8.7.13797"
+      "Path": "C:\\Users\\enju\\.nuget\\packages\\uipath.pdf.activities\\3.10.1"
+    },
+    {
+      "Package": {
+        "Id": "Adobe.DocumentServices.PDFTools",
+        "Version": "1.3.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\enju\\.nuget\\packages\\adobe.documentservices.pdftools\\1.3.1\\lib/netstandard2.0/Adobe.DocumentServices.PDFTools.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\jose-jwt\\2.4.0\\lib/netstandard1.4/jose-jwt.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\lib/netstandard2.0/Microsoft.AspNetCore.WebUtilities.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\lib/netstandard2.0/Microsoft.Net.Http.Headers.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/netstandard2.0/Newtonsoft.Json.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\polly\\7.1.0\\lib/netstandard2.0/Polly.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\lib/netstandard2.0/BouncyCastle.Crypto.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\restsharp\\106.15.0\\lib/netstandard2.0/RestSharp.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\uritemplate.core\\1.0.2\\lib/netstandard1.6/UriTemplate.Core.dll"
+      ],
+      "Path": "C:\\Users\\enju\\.nuget\\packages\\adobe.documentservices.pdftools\\1.3.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.AdobePdfServices.IntegrationService.Activities",
+        "Version": "4.0.6"
+      },
+      "Assemblies": [
+        "C:\\Users\\enju\\.nuget\\packages\\dotnetprojects.wpftoolkit.input\\6.0.79\\lib/netcoreapp3.0/DotNetProjects.Input.Toolkit.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/netstandard2.0/Newtonsoft.Json.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\nito.asyncex.context\\5.1.0\\lib/netstandard2.0/Nito.AsyncEx.Context.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\nito.asyncex.coordination\\5.1.0\\lib/netstandard2.0/Nito.AsyncEx.Coordination.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\nito.asyncex.interop.waithandles\\5.1.0\\lib/netstandard2.0/Nito.AsyncEx.Interop.WaitHandles.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\nito.asyncex.oop\\5.1.0\\lib/netstandard2.0/Nito.AsyncEx.Oop.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\nito.asyncex.tasks\\5.1.0\\lib/netstandard2.0/Nito.AsyncEx.Tasks.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\nito.cancellation\\1.1.0\\lib/netstandard2.0/Nito.Cancellation.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\nito.collections.deque\\1.1.0\\lib/netstandard2.0/Nito.Collections.Deque.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\nito.disposables\\2.2.0\\lib/netstandard2.1/Nito.Disposables.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\system.runtime.caching\\5.0.0\\runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\uipath.adobepdfservices.integrationservice.activities\\4.0.6\\lib/net6.0-windows7.0/UiPath.AdobePdfServices.IntegrationService.Activities.Design.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\uipath.adobepdfservices.integrationservice.activities\\4.0.6\\lib/net6.0-windows7.0/UiPath.AdobePdfServices.IntegrationService.Activities.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\uipath.adobepdfservices.integrationservice.activities\\4.0.6\\lib/net6.0-windows7.0/UiPath.AdobePdfServices.IntegrationService.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\uipath.baf.infrastructure\\1.0.1\\lib/net6.0-windows7.0/UiPath.BAF.Infrastructure.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\uipath.connectionclient\\1.4.1\\lib/net5.0/ConnectionClient.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\uipath.integrationservice.infrastructure\\1.0.4\\lib/net6.0-windows7.0/UiPath.IntegrationService.Infrastructure.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\uipath.platform\\22.10.2\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/netstandard2.0/TelemetryClient.dll"
+      ],
+      "Path": "C:\\Users\\enju\\.nuget\\packages\\uipath.adobepdfservices.integrationservice.activities\\4.0.6"
     }
   ],
   "Conflicts": [],
   "ResolvedDependencies": {
+    "Adobe.DocumentServices.PDFTools": {
+      "Id": "Adobe.DocumentServices.PDFTools",
+      "Version": "1.3.1",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.AspNetCore.WebUtilities",
+          "Item2": "[2.2.0, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[12.0.1, )"
+        },
+        {
+          "Item1": "Polly",
+          "Item2": "[7.1.0, )"
+        },
+        {
+          "Item1": "Portable.BouncyCastle",
+          "Item2": "[1.8.5, )"
+        },
+        {
+          "Item1": "RestSharp",
+          "Item2": "[106.15.0, )"
+        },
+        {
+          "Item1": "System.ComponentModel.Annotations",
+          "Item2": "[4.5.0, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        },
+        {
+          "Item1": "UriTemplate.Core",
+          "Item2": "[1.0.2, )"
+        },
+        {
+          "Item1": "jose-jwt",
+          "Item2": "[2.4.0, )"
+        }
+      ]
+    },
     "AutoMapper": {
       "Id": "AutoMapper",
       "Version": "9.0.0",
@@ -302,6 +414,11 @@
       "Version": "8.7.13797",
       "Dependencies": []
     },
+    "BitMiracle.LibTiff.NET": {
+      "Id": "BitMiracle.LibTiff.NET",
+      "Version": "2.4.649",
+      "Dependencies": []
+    },
     "ClosedXML": {
       "Id": "ClosedXML",
       "Version": "0.95.4",
@@ -343,6 +460,11 @@
           "Item2": "[4.7.0, )"
         }
       ]
+    },
+    "DotNetProjects.WpfToolkit.Input": {
+      "Id": "DotNetProjects.WpfToolkit.Input",
+      "Version": "6.0.79",
+      "Dependencies": []
     },
     "ExcelNumberFormat": {
       "Id": "ExcelNumberFormat",
@@ -429,6 +551,44 @@
       "Id": "HtmlAgilityPack",
       "Version": "1.11.38",
       "Dependencies": []
+    },
+    "jose-jwt": {
+      "Id": "jose-jwt",
+      "Version": "2.4.0",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[9.0.1, )"
+        },
+        {
+          "Item1": "System.Runtime.InteropServices",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.IO.Compression",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Security.Cryptography.Algorithms",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Security.Cryptography.Csp",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Security.Cryptography.Cng",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Security.Cryptography.X509Certificates",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime.Serialization.Primitives",
+          "Item2": "[4.3.0, )"
+        }
+      ]
     },
     "MailKit": {
       "Id": "MailKit",
@@ -586,6 +746,20 @@
         {
           "Item1": "Microsoft.AspNetCore.SignalR.Common",
           "Item2": "[3.1.6, )"
+        }
+      ]
+    },
+    "Microsoft.AspNetCore.WebUtilities": {
+      "Id": "Microsoft.AspNetCore.WebUtilities",
+      "Version": "2.2.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Net.Http.Headers",
+          "Item2": "[2.2.0, )"
+        },
+        {
+          "Item1": "System.Text.Encodings.Web",
+          "Item2": "[4.5.0, )"
         }
       ]
     },
@@ -915,6 +1089,20 @@
       "Id": "Microsoft.Management.Infrastructure.Runtime.Win",
       "Version": "2.0.0",
       "Dependencies": []
+    },
+    "Microsoft.Net.Http.Headers": {
+      "Id": "Microsoft.Net.Http.Headers",
+      "Version": "2.2.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Extensions.Primitives",
+          "Item2": "[2.2.0, )"
+        },
+        {
+          "Item1": "System.Buffers",
+          "Item2": "[4.5.0, )"
+        }
+      ]
     },
     "Microsoft.NETCore.Platforms": {
       "Id": "Microsoft.NETCore.Platforms",
@@ -1776,6 +1964,11 @@
         }
       ]
     },
+    "NTextCat": {
+      "Id": "NTextCat",
+      "Version": "0.3.65",
+      "Dependencies": []
+    },
     "Polly": {
       "Id": "Polly",
       "Version": "7.1.0",
@@ -1784,6 +1977,11 @@
     "Portable.BouncyCastle": {
       "Id": "Portable.BouncyCastle",
       "Version": "1.9.0",
+      "Dependencies": []
+    },
+    "RestSharp": {
+      "Id": "RestSharp",
+      "Version": "106.15.0",
       "Dependencies": []
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl": {
@@ -2113,6 +2311,11 @@
       "Version": "5.0.0",
       "Dependencies": []
     },
+    "System.ComponentModel.Annotations": {
+      "Id": "System.ComponentModel.Annotations",
+      "Version": "4.5.0",
+      "Dependencies": []
+    },
     "System.ComponentModel.Composition": {
       "Id": "System.ComponentModel.Composition",
       "Version": "5.0.0",
@@ -2407,6 +2610,20 @@
         {
           "Item1": "Microsoft.Win32.SystemEvents",
           "Item2": "[5.0.0, )"
+        }
+      ]
+    },
+    "System.Drawing.Primitives": {
+      "Id": "System.Drawing.Primitives",
+      "Version": "4.3.0",
+      "Dependencies": [
+        {
+          "Item1": "System.Runtime",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime.Extensions",
+          "Item2": "[4.3.0, )"
         }
       ]
     },
@@ -3449,6 +3666,20 @@
         }
       ]
     },
+    "System.Runtime.Serialization.Primitives": {
+      "Id": "System.Runtime.Serialization.Primitives",
+      "Version": "4.3.0",
+      "Dependencies": [
+        {
+          "Item1": "System.Resources.ResourceManager",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime",
+          "Item2": "[4.3.0, )"
+        }
+      ]
+    },
     "System.Security.AccessControl": {
       "Id": "System.Security.AccessControl",
       "Version": "5.0.0",
@@ -4317,6 +4548,38 @@
         }
       ]
     },
+    "UiPath.AdobePdfServices.IntegrationService.Activities": {
+      "Id": "UiPath.AdobePdfServices.IntegrationService.Activities",
+      "Version": "4.0.6",
+      "Dependencies": [
+        {
+          "Item1": "DotNetProjects.WpfToolkit.Input",
+          "Item2": "[6.0.79, )"
+        },
+        {
+          "Item1": "UiPath.ConnectionClient",
+          "Item2": "[1.3.0, )"
+        },
+        {
+          "Item1": "UiPath.IntegrationService.Infrastructure",
+          "Item2": "[1.0.4, )"
+        }
+      ]
+    },
+    "UiPath.BAF.Infrastructure": {
+      "Id": "UiPath.BAF.Infrastructure",
+      "Version": "1.0.1",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        },
+        {
+          "Item1": "UiPath.Telemetry.Client",
+          "Item2": "[1.5.3, )"
+        }
+      ]
+    },
     "UiPath.ConnectionClient": {
       "Id": "UiPath.ConnectionClient",
       "Version": "1.4.1",
@@ -4340,6 +4603,50 @@
         {
           "Item1": "UiPath.Telemetry.Client",
           "Item2": "[1.5.3, )"
+        }
+      ]
+    },
+    "UiPath.DocumentProcessing.Contracts": {
+      "Id": "UiPath.DocumentProcessing.Contracts",
+      "Version": "1.17.1",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[13.0.1, )"
+        }
+      ]
+    },
+    "UiPath.DocumentUnderstanding.Digitizer": {
+      "Id": "UiPath.DocumentUnderstanding.Digitizer",
+      "Version": "2.5.2",
+      "Dependencies": [
+        {
+          "Item1": "BitMiracle.Docotic.Pdf",
+          "Item2": "[8.6.13525-dev, )"
+        },
+        {
+          "Item1": "System.Drawing.Common",
+          "Item2": "[5.0.2, )"
+        },
+        {
+          "Item1": "System.Drawing.Primitives",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Collections.Immutable",
+          "Item2": "[1.5.0, )"
+        },
+        {
+          "Item1": "NTextCat",
+          "Item2": "[0.3.65, )"
+        },
+        {
+          "Item1": "BitMiracle.LibTiff.NET",
+          "Item2": "[2.4.649, )"
+        },
+        {
+          "Item1": "UiPath.DocumentProcessing.Contracts",
+          "Item2": "[1.17.1, )"
         }
       ]
     },
@@ -4389,6 +4696,28 @@
       "Id": "UiPath.ImageProcessing",
       "Version": "22.4.1",
       "Dependencies": []
+    },
+    "UiPath.IntegrationService.Infrastructure": {
+      "Id": "UiPath.IntegrationService.Infrastructure",
+      "Version": "1.0.4",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        },
+        {
+          "Item1": "UiPath.BAF.Infrastructure",
+          "Item2": "[1.0.1, )"
+        },
+        {
+          "Item1": "UiPath.Platform",
+          "Item2": "[22.4.1, )"
+        },
+        {
+          "Item1": "UiPath.Telemetry.Client",
+          "Item2": "[1.5.3, )"
+        }
+      ]
     },
     "UiPath.Mail.Activities": {
       "Id": "UiPath.Mail.Activities",
@@ -4521,6 +4850,40 @@
         {
           "Item1": "System.Drawing.Common",
           "Item2": "[5.0.2, )"
+        }
+      ]
+    },
+    "UiPath.PDF.Activities": {
+      "Id": "UiPath.PDF.Activities",
+      "Version": "3.10.1",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[13.0.1, )"
+        },
+        {
+          "Item1": "System.IO.Abstractions",
+          "Item2": "[3.0.10, )"
+        },
+        {
+          "Item1": "System.Threading.Tasks.Dataflow",
+          "Item2": "[5.0.0, )"
+        },
+        {
+          "Item1": "System.ValueTuple",
+          "Item2": "[4.5.0, )"
+        },
+        {
+          "Item1": "UiPath.DocumentUnderstanding.Digitizer",
+          "Item2": "[2.5.2, )"
+        },
+        {
+          "Item1": "UiPath.OCR.Contracts",
+          "Item2": "[2.13.0, )"
+        },
+        {
+          "Item1": "UiPath.Telemetry.Client",
+          "Item2": "[1.5.3, )"
         }
       ]
     },
@@ -4719,9 +5082,29 @@
           "Item2": "[2.13.0, )"
         }
       ]
+    },
+    "UriTemplate.Core": {
+      "Id": "UriTemplate.Core",
+      "Version": "1.0.2",
+      "Dependencies": [
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        }
+      ]
     }
   },
   "AllPackages": [
+    {
+      "Package": {
+        "Id": "Adobe.DocumentServices.PDFTools",
+        "Version": "1.3.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\enju\\.nuget\\packages\\adobe.documentservices.pdftools\\1.3.1\\lib\\netstandard2.0\\Adobe.DocumentServices.PDFTools.dll"
+      ],
+      "Path": "C:\\Users\\enju\\.nuget\\packages\\adobe.documentservices.pdftools\\1.3.1"
+    },
     {
       "Package": {
         "Id": "AutoMapper",
@@ -4754,6 +5137,16 @@
     },
     {
       "Package": {
+        "Id": "BitMiracle.LibTiff.NET",
+        "Version": "2.4.649"
+      },
+      "Assemblies": [
+        "C:\\Users\\enju\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\lib\\netstandard2.0\\BitMiracle.LibTiff.NET.dll"
+      ],
+      "Path": "C:\\Users\\enju\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649"
+    },
+    {
+      "Package": {
         "Id": "ClosedXML",
         "Version": "0.95.4"
       },
@@ -4781,6 +5174,16 @@
         "C:\\Users\\enju\\.nuget\\packages\\documentformat.openxml\\2.12.1\\lib\\netstandard2.0\\DocumentFormat.OpenXml.dll"
       ],
       "Path": "C:\\Users\\enju\\.nuget\\packages\\documentformat.openxml\\2.12.1"
+    },
+    {
+      "Package": {
+        "Id": "DotNetProjects.WpfToolkit.Input",
+        "Version": "6.0.79"
+      },
+      "Assemblies": [
+        "C:\\Users\\enju\\.nuget\\packages\\dotnetprojects.wpftoolkit.input\\6.0.79\\lib\\netcoreapp3.0\\DotNetProjects.Input.Toolkit.dll"
+      ],
+      "Path": "C:\\Users\\enju\\.nuget\\packages\\dotnetprojects.wpftoolkit.input\\6.0.79"
     },
     {
       "Package": {
@@ -4862,6 +5265,16 @@
         "C:\\Users\\enju\\.nuget\\packages\\htmlagilitypack\\1.11.38\\lib\\netstandard2.0\\HtmlAgilityPack.dll"
       ],
       "Path": "C:\\Users\\enju\\.nuget\\packages\\htmlagilitypack\\1.11.38"
+    },
+    {
+      "Package": {
+        "Id": "jose-jwt",
+        "Version": "2.4.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\enju\\.nuget\\packages\\jose-jwt\\2.4.0\\lib\\netstandard1.4\\jose-jwt.dll"
+      ],
+      "Path": "C:\\Users\\enju\\.nuget\\packages\\jose-jwt\\2.4.0"
     },
     {
       "Package": {
@@ -4982,6 +5395,16 @@
         "C:\\Users\\enju\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.AspNetCore.SignalR.Protocols.Json.dll"
       ],
       "Path": "C:\\Users\\enju\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\3.1.6"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.AspNetCore.WebUtilities",
+        "Version": "2.2.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\enju\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\lib\\netstandard2.0\\Microsoft.AspNetCore.WebUtilities.dll"
+      ],
+      "Path": "C:\\Users\\enju\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0"
     },
     {
       "Package": {
@@ -5264,6 +5687,16 @@
       },
       "Assemblies": [],
       "Path": "C:\\Users\\enju\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Net.Http.Headers",
+        "Version": "2.2.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\enju\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\lib\\netstandard2.0\\Microsoft.Net.Http.Headers.dll"
+      ],
+      "Path": "C:\\Users\\enju\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0"
     },
     {
       "Package": {
@@ -5628,6 +6061,16 @@
     },
     {
       "Package": {
+        "Id": "NTextCat",
+        "Version": "0.3.65"
+      },
+      "Assemblies": [
+        "C:\\Users\\enju\\.nuget\\packages\\ntextcat\\0.3.65\\lib\\netstandard2.0\\NTextCat.dll"
+      ],
+      "Path": "C:\\Users\\enju\\.nuget\\packages\\ntextcat\\0.3.65"
+    },
+    {
+      "Package": {
         "Id": "Polly",
         "Version": "7.1.0"
       },
@@ -5645,6 +6088,16 @@
         "C:\\Users\\enju\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\lib\\netstandard2.0\\BouncyCastle.Crypto.dll"
       ],
       "Path": "C:\\Users\\enju\\.nuget\\packages\\portable.bouncycastle\\1.9.0"
+    },
+    {
+      "Package": {
+        "Id": "RestSharp",
+        "Version": "106.15.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\enju\\.nuget\\packages\\restsharp\\106.15.0\\lib\\netstandard2.0\\RestSharp.dll"
+      ],
+      "Path": "C:\\Users\\enju\\.nuget\\packages\\restsharp\\106.15.0"
     },
     {
       "Package": {
@@ -5936,6 +6389,16 @@
     },
     {
       "Package": {
+        "Id": "System.ComponentModel.Annotations",
+        "Version": "4.5.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\enju\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\lib\\netcoreapp2.0\\_._"
+      ],
+      "Path": "C:\\Users\\enju\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0"
+    },
+    {
+      "Package": {
         "Id": "System.ComponentModel.Composition",
         "Version": "5.0.0"
       },
@@ -6105,6 +6568,16 @@
         "C:\\Users\\enju\\.nuget\\packages\\system.drawing.common\\5.0.2\\lib\\netcoreapp3.0\\System.Drawing.Common.dll"
       ],
       "Path": "C:\\Users\\enju\\.nuget\\packages\\system.drawing.common\\5.0.2"
+    },
+    {
+      "Package": {
+        "Id": "System.Drawing.Primitives",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\enju\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\lib\\netstandard1.1\\System.Drawing.Primitives.dll"
+      ],
+      "Path": "C:\\Users\\enju\\.nuget\\packages\\system.drawing.primitives\\4.3.0"
     },
     {
       "Package": {
@@ -6552,6 +7025,16 @@
     },
     {
       "Package": {
+        "Id": "System.Runtime.Serialization.Primitives",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\enju\\.nuget\\packages\\system.runtime.serialization.primitives\\4.3.0\\lib\\netstandard1.3\\System.Runtime.Serialization.Primitives.dll"
+      ],
+      "Path": "C:\\Users\\enju\\.nuget\\packages\\system.runtime.serialization.primitives\\4.3.0"
+    },
+    {
+      "Package": {
         "Id": "System.Security.AccessControl",
         "Version": "5.0.0"
       },
@@ -6947,6 +7430,28 @@
     },
     {
       "Package": {
+        "Id": "UiPath.AdobePdfServices.IntegrationService.Activities",
+        "Version": "4.0.6"
+      },
+      "Assemblies": [
+        "C:\\Users\\enju\\.nuget\\packages\\uipath.adobepdfservices.integrationservice.activities\\4.0.6\\lib\\net6.0-windows7.0\\UiPath.AdobePdfServices.IntegrationService.Activities.Design.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\uipath.adobepdfservices.integrationservice.activities\\4.0.6\\lib\\net6.0-windows7.0\\UiPath.AdobePdfServices.IntegrationService.Activities.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\uipath.adobepdfservices.integrationservice.activities\\4.0.6\\lib\\net6.0-windows7.0\\UiPath.AdobePdfServices.IntegrationService.dll"
+      ],
+      "Path": "C:\\Users\\enju\\.nuget\\packages\\uipath.adobepdfservices.integrationservice.activities\\4.0.6"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.BAF.Infrastructure",
+        "Version": "1.0.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\enju\\.nuget\\packages\\uipath.baf.infrastructure\\1.0.1\\lib\\net6.0-windows7.0\\UiPath.BAF.Infrastructure.dll"
+      ],
+      "Path": "C:\\Users\\enju\\.nuget\\packages\\uipath.baf.infrastructure\\1.0.1"
+    },
+    {
+      "Package": {
         "Id": "UiPath.ConnectionClient",
         "Version": "1.4.1"
       },
@@ -6954,6 +7459,26 @@
         "C:\\Users\\enju\\.nuget\\packages\\uipath.connectionclient\\1.4.1\\lib\\net5.0\\ConnectionClient.dll"
       ],
       "Path": "C:\\Users\\enju\\.nuget\\packages\\uipath.connectionclient\\1.4.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.DocumentProcessing.Contracts",
+        "Version": "1.17.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\enju\\.nuget\\packages\\uipath.documentprocessing.contracts\\1.17.1\\lib\\net6.0\\UiPath.DocumentProcessing.Contracts.dll"
+      ],
+      "Path": "C:\\Users\\enju\\.nuget\\packages\\uipath.documentprocessing.contracts\\1.17.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.DocumentUnderstanding.Digitizer",
+        "Version": "2.5.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\enju\\.nuget\\packages\\uipath.documentunderstanding.digitizer\\2.5.2\\lib\\net6.0\\UiPath.DocumentUnderstanding.Digitizer.dll"
+      ],
+      "Path": "C:\\Users\\enju\\.nuget\\packages\\uipath.documentunderstanding.digitizer\\2.5.2"
     },
     {
       "Package": {
@@ -6980,6 +7505,16 @@
         "C:\\Users\\enju\\.nuget\\packages\\uipath.imageprocessing\\22.4.1\\lib\\net5.0-windows7.0\\UiPath.ImageProcessingInterop.dll"
       ],
       "Path": "C:\\Users\\enju\\.nuget\\packages\\uipath.imageprocessing\\22.4.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.IntegrationService.Infrastructure",
+        "Version": "1.0.4"
+      },
+      "Assemblies": [
+        "C:\\Users\\enju\\.nuget\\packages\\uipath.integrationservice.infrastructure\\1.0.4\\lib\\net6.0-windows7.0\\UiPath.IntegrationService.Infrastructure.dll"
+      ],
+      "Path": "C:\\Users\\enju\\.nuget\\packages\\uipath.integrationservice.infrastructure\\1.0.4"
     },
     {
       "Package": {
@@ -7019,6 +7554,19 @@
         "C:\\Users\\enju\\.nuget\\packages\\uipath.ocr.contracts\\2.13.0\\lib\\net6.0-windows7.0\\UiPath.OCR.Contracts.dll"
       ],
       "Path": "C:\\Users\\enju\\.nuget\\packages\\uipath.ocr.contracts\\2.13.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.PDF.Activities",
+        "Version": "3.10.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\enju\\.nuget\\packages\\uipath.pdf.activities\\3.10.1\\lib\\net6.0-windows7.0\\UiPath.PDF.Activities.Design.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\uipath.pdf.activities\\3.10.1\\lib\\net6.0-windows7.0\\UiPath.PDF.Activities.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\uipath.pdf.activities\\3.10.1\\lib\\net6.0-windows7.0\\UiPath.PDF.Telemetry.dll",
+        "C:\\Users\\enju\\.nuget\\packages\\uipath.pdf.activities\\3.10.1\\lib\\net6.0-windows7.0\\UiPath.PDF.dll"
+      ],
+      "Path": "C:\\Users\\enju\\.nuget\\packages\\uipath.pdf.activities\\3.10.1"
     },
     {
       "Package": {
@@ -7097,6 +7645,16 @@
         "C:\\Users\\enju\\.nuget\\packages\\uipath.vision\\3.6.0\\lib\\net6.0-windows7.0\\UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\enju\\.nuget\\packages\\uipath.vision\\3.6.0"
+    },
+    {
+      "Package": {
+        "Id": "UriTemplate.Core",
+        "Version": "1.0.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\enju\\.nuget\\packages\\uritemplate.core\\1.0.2\\lib\\netstandard1.6\\UriTemplate.Core.dll"
+      ],
+      "Path": "C:\\Users\\enju\\.nuget\\packages\\uritemplate.core\\1.0.2"
     }
   ]
 }
